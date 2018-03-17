@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 /**
  * 7. Reverse Integer
+ * 反转数字
  * Given a 32-bit signed integer, reverse digits of an integer.
 
  Example 1:

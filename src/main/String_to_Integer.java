@@ -2,6 +2,7 @@ package main;
 
 /**
  * 8. String to Integer
+ * 字符串转整数
  * Requirements for atoi:
  The function first discards as many whitespace characters as necessary until the first non-whitespace character is found.
  Then, starting from this character, takes an optional initial plus or minus sign followed by as many numerical digits

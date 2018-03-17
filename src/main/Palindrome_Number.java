@@ -2,6 +2,7 @@ package main;
 
 /**
  * 9. Palindrome Number
+ * 判断是否是回文数字
  * Determine whether an integer is a palindrome. Do this without extra space.
  *
  * Created by zhouyu on 2017/11/14.

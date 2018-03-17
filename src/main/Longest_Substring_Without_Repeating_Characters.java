@@ -4,6 +4,7 @@ import java.util.*;
 
 /**
  * 3. Longest Substring Without Repeating Characters
+ * 不包含重复字符的最长子串
  Given a string, find the length of the longest substring without repeating characters.
 
  Examples:
